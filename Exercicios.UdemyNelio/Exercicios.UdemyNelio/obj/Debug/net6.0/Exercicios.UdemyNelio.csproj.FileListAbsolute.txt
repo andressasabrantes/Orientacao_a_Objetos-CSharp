@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\bin\Debug\net6.0\Exercicios.UdemyNelio.exe
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\bin\Debug\net6.0\Exercicios.UdemyNelio.deps.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\bin\Debug\net6.0\Exercicios.UdemyNelio.runtimeconfig.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\bin\Debug\net6.0\Exercicios.UdemyNelio.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\bin\Debug\net6.0\Exercicios.UdemyNelio.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\obj\Debug\net6.0\Exercicios.UdemyNelio.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\obj\Debug\net6.0\Exercicios.UdemyNelio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\obj\Debug\net6.0\Exercicios.UdemyNelio.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\obj\Debug\net6.0\Exercicios.UdemyNelio.AssemblyInfo.cs
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\obj\Debug\net6.0\Exercicios.UdemyNelio.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\obj\Debug\net6.0\Exercicios.UdemyNelio.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\obj\Debug\net6.0\refint\Exercicios.UdemyNelio.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\obj\Debug\net6.0\Exercicios.UdemyNelio.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\obj\Debug\net6.0\Exercicios.UdemyNelio.genruntimeconfig.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio\Exercicios.UdemyNelio\obj\Debug\net6.0\ref\Exercicios.UdemyNelio.dll
