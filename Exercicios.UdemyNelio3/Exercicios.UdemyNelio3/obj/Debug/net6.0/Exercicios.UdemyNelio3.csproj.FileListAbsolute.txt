@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\bin\Debug\net6.0\Exercicios.UdemyNelio3.exe
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\bin\Debug\net6.0\Exercicios.UdemyNelio3.deps.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\bin\Debug\net6.0\Exercicios.UdemyNelio3.runtimeconfig.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\bin\Debug\net6.0\Exercicios.UdemyNelio3.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\bin\Debug\net6.0\Exercicios.UdemyNelio3.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\obj\Debug\net6.0\Exercicios.UdemyNelio3.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\obj\Debug\net6.0\Exercicios.UdemyNelio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\obj\Debug\net6.0\Exercicios.UdemyNelio3.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\obj\Debug\net6.0\Exercicios.UdemyNelio3.AssemblyInfo.cs
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\obj\Debug\net6.0\Exercicios.UdemyNelio3.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\obj\Debug\net6.0\Exercicios.UdemyNelio3.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\obj\Debug\net6.0\refint\Exercicios.UdemyNelio3.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\obj\Debug\net6.0\Exercicios.UdemyNelio3.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\obj\Debug\net6.0\Exercicios.UdemyNelio3.genruntimeconfig.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Exercicios.UdemyNelio3\Exercicios.UdemyNelio3\obj\Debug\net6.0\ref\Exercicios.UdemyNelio3.dll
