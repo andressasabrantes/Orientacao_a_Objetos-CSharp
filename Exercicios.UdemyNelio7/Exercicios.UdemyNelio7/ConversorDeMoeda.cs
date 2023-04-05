@@ -9,11 +9,13 @@ namespace Exercicios.UdemyNelio7
     internal class ConversorDeMoeda
     {
         public double CotacaoDoDia;
-        public double QuantidadeDolar;
-
+        public double QuantidadeDolar;        
         public double Dolares()
-        {
-            return CotacaoDoDia * QuantidadeDolar;
+        {            
+            double iof = 6.0 / 100.0;
+            double valorDoIof = iof * (CotacaoDoDia * QuantidadeDolar);
+            return valorDoIof + (CotacaoDoDia * QuantidadeDolar);
+
         }
     }
 }
