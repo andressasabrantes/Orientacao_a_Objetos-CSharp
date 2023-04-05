@@ -11,12 +11,9 @@ namespace Exercicios.UdemyNelio7
         public double CotacaoDoDia;
         public double QuantidadeDolar;
 
-
         public double Dolares()
         {
             return CotacaoDoDia * QuantidadeDolar;
         }
-
-
     }
 }
