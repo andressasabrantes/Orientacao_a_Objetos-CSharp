@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\obj\Debug\net6.0\Exercicios.UdemyNelio7.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\obj\Debug\net6.0\Exercicios.UdemyNelio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\obj\Debug\net6.0\Exercicios.UdemyNelio7.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\obj\Debug\net6.0\Exercicios.UdemyNelio7.AssemblyInfo.cs
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\obj\Debug\net6.0\Exercicios.UdemyNelio7.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\bin\Debug\net6.0\Exercicios.UdemyNelio7.exe
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\bin\Debug\net6.0\Exercicios.UdemyNelio7.deps.json
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\bin\Debug\net6.0\Exercicios.UdemyNelio7.runtimeconfig.json
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\bin\Debug\net6.0\Exercicios.UdemyNelio7.dll
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\bin\Debug\net6.0\Exercicios.UdemyNelio7.pdb
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\obj\Debug\net6.0\Exercicios.UdemyNelio7.dll
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\obj\Debug\net6.0\refint\Exercicios.UdemyNelio7.dll
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\obj\Debug\net6.0\Exercicios.UdemyNelio7.pdb
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\obj\Debug\net6.0\Exercicios.UdemyNelio7.genruntimeconfig.cache
+C:\Users\SMN\Desktop\Orientacao_a_Objetos-CSharp\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\obj\Debug\net6.0\ref\Exercicios.UdemyNelio7.dll

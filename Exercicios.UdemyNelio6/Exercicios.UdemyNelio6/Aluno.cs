@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace Exercicios.UdemyNelio6
 {
@@ -23,8 +24,8 @@ namespace Exercicios.UdemyNelio6
                 return "Está APROVADO!";
             }
             else {
-                double pontuacaoFaltante = (NotaTrimeste1 + NotaTrimeste2 + NotaTrimestre3) - 60;
-                Console.WriteLine($"Faltaram: {0}", pontuacaoFaltante);                
+                double pontuacaoFaltante = 60 - (NotaTrimeste1 + NotaTrimeste2 + NotaTrimestre3);
+                Console.WriteLine($"Faltaram: {pontuacaoFaltante.ToString("F2", CultureInfo.InvariantCulture)} PONTOS");                
                 return "Está REPROVADO!";
             }
         }

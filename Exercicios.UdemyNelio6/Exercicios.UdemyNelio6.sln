@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios.UdemyNelio6", "Exercicios.UdemyNelio6\Exercicios.UdemyNelio6.csproj", "{FA6B8835-57FC-4D40-8972-869D9B421D48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicios.UdemyNelio6", "Exercicios.UdemyNelio6\Exercicios.UdemyNelio6.csproj", "{FA6B8835-57FC-4D40-8972-869D9B421D48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicios.UdemyNelio7", "..\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7\Exercicios.UdemyNelio7.csproj", "{79F29991-31C5-4A61-8F9C-62B6DD366162}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FA6B8835-57FC-4D40-8972-869D9B421D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA6B8835-57FC-4D40-8972-869D9B421D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA6B8835-57FC-4D40-8972-869D9B421D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F29991-31C5-4A61-8F9C-62B6DD366162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F29991-31C5-4A61-8F9C-62B6DD366162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F29991-31C5-4A61-8F9C-62B6DD366162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F29991-31C5-4A61-8F9C-62B6DD366162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,8 +17,8 @@ namespace Exercicios.UdemyNelio6
             aluno.NotaTrimestre3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine();
-            Console.WriteLine($"Nome do aluno: {0}", aluno.Nome);
-            Console.WriteLine($"NOTA FINAL = {0}", aluno.NotaFinal());
+            Console.WriteLine($"Nome do aluno: {aluno.Nome}");
+            Console.WriteLine($"NOTA FINAL = {aluno.NotaFinal().ToString("F2", CultureInfo.InvariantCulture)}");
             Console.WriteLine(aluno.EstaAprovado());
         }
     }
