@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\bin\Debug\net6.0\Vetores3.exe
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\bin\Debug\net6.0\Vetores3.deps.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\bin\Debug\net6.0\Vetores3.runtimeconfig.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\bin\Debug\net6.0\Vetores3.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\bin\Debug\net6.0\Vetores3.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\obj\Debug\net6.0\Vetores3.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\obj\Debug\net6.0\Vetores3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\obj\Debug\net6.0\Vetores3.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\obj\Debug\net6.0\Vetores3.AssemblyInfo.cs
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\obj\Debug\net6.0\Vetores3.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\obj\Debug\net6.0\Vetores3.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\obj\Debug\net6.0\refint\Vetores3.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\obj\Debug\net6.0\Vetores3.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\obj\Debug\net6.0\Vetores3.genruntimeconfig.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Vetores3\Vetores3\obj\Debug\net6.0\ref\Vetores3.dll
