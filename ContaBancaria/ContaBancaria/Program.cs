@@ -10,14 +10,14 @@ namespace ContaBancaria
             Console.WriteLine("Insira seus dados abaixo");
             Console.WriteLine();
 
-            Console.Write("Número da Conta: ");
+            Console.Write("Entre o número da Conta: ");
             int numeroConta = int.Parse(Console.ReadLine());
 
-            Console.Write("Nome do titular: ");
+            Console.Write("Entre o nome do titular: ");
             string nomeTitular = Console.ReadLine();
 
             Console.WriteLine();
-            Console.Write("Haverá depósito inicial? S/N ");
+            Console.Write("Haverá depósito inicial? (s/n) ");
             char opcao = char.Parse(Console.ReadLine());
             Console.WriteLine();
 
@@ -26,7 +26,7 @@ namespace ContaBancaria
             if (opcao == 's' || opcao == 'S')
             {
                 Console.Write("Digite o valor do depósito inicial: ");
-                double depositoInicial = double.Parse(Console.ReadLine());
+                double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 conta = new ContaBancaria(numeroConta, nomeTitular, depositoInicial);
             }
             else
@@ -40,7 +40,7 @@ namespace ContaBancaria
 
             Console.WriteLine();
             Console.Write("Digite um valor para depósito: ");
-            double deposito = double.Parse(Console.ReadLine());
+            double deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             conta.Depositar(deposito);
 
             Console.WriteLine();
@@ -49,7 +49,7 @@ namespace ContaBancaria
 
             Console.WriteLine();
             Console.WriteLine("Digite um valor para saque: ");
-            double valorSaque = double.Parse(Console.ReadLine());
+            double valorSaque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             conta.Sacar(valorSaque);
 
             Console.WriteLine();

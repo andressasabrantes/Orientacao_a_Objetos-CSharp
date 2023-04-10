@@ -6,53 +6,47 @@ namespace ContaBancaria
 {
     internal class ContaBancaria
     {
-        private int _numeroDaConta;
-        private string _nomeTitular;
-        private double _saldo;
-        
-     
-        public ContaBancaria(int numeroConta, string nomeTitular, double depositoInicial = 0)
+        public int Numero { get; private set; }
+        public string Titular { get; set; }
+        public double Saldo { get; private set; }
+
+
+        public ContaBancaria(int numero, string titular)
         {
-            _numeroDaConta = numeroConta;
-            _nomeTitular = nomeTitular;
-            _saldo = depositoInicial;
+            Numero = numero;
+            Titular = titular;
         }
 
-        public int NumeroConta
+        public ContaBancaria(int numero, string titular, double depositoInicial) : this(numero, titular)
         {
-            get { return _numeroDaConta; }
+            Saldo = depositoInicial;
         }
 
-        public string NomeTitular
+        public void Depositar(double deposito)
         {
-            get { return _nomeTitular; }
-            set { _nomeTitular = value; }
+            Saldo += deposito;
         }
 
-        public void Depositar(double valorDeposito)
+        public void Sacar(double saque)
         {
-            _saldo += valorDeposito;
+            Saldo -= saque + 5;
         }
-        
-        public void Sacar(double valor)
-        {            
-            if (valor + 5 > _saldo)
-            {
-                Console.WriteLine("Erro ao sacar: Saldo Insuficiente!");
-            }
-            else
-            {
-                _saldo -= valor + 5;
-            }
-        }
-
+                
         public void MostrarDados()
         {
-            Console.WriteLine($"Número da conta: {_numeroDaConta}");
-            Console.WriteLine($"Nome do titular: {_nomeTitular}");
-            Console.WriteLine("Saldo: R$ " + _saldo.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine($"Número da conta: {Numero}");
+            Console.WriteLine($"Nome do titular da conta: {Titular}");
+            Console.WriteLine("Saldo: $" + Saldo);
         }
 
+        public override string ToString()
+        {
+            return "Conta "
+                + Numero
+                + ", Titular: "
+                + Titular
+                + ", Saldo: $"
+                + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+        }
     }
-
 }
