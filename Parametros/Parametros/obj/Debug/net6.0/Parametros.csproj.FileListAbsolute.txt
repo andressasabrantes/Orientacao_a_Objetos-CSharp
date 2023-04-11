@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\bin\Debug\net6.0\Parametros.exe
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\bin\Debug\net6.0\Parametros.deps.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\bin\Debug\net6.0\Parametros.runtimeconfig.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\bin\Debug\net6.0\Parametros.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\bin\Debug\net6.0\Parametros.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\obj\Debug\net6.0\Parametros.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\obj\Debug\net6.0\Parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\obj\Debug\net6.0\Parametros.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\obj\Debug\net6.0\Parametros.AssemblyInfo.cs
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\obj\Debug\net6.0\Parametros.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\obj\Debug\net6.0\Parametros.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\obj\Debug\net6.0\refint\Parametros.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\obj\Debug\net6.0\Parametros.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\obj\Debug\net6.0\Parametros.genruntimeconfig.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Parametros\Parametros\obj\Debug\net6.0\ref\Parametros.dll
