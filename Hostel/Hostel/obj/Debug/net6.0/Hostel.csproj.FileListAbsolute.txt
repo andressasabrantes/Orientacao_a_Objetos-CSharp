@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\obj\Debug\net6.0\Hostel.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\obj\Debug\net6.0\Hostel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\obj\Debug\net6.0\Hostel.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\obj\Debug\net6.0\Hostel.AssemblyInfo.cs
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\obj\Debug\net6.0\Hostel.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\bin\Debug\net6.0\Hostel.exe
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\bin\Debug\net6.0\Hostel.deps.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\bin\Debug\net6.0\Hostel.runtimeconfig.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\bin\Debug\net6.0\Hostel.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\bin\Debug\net6.0\Hostel.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\obj\Debug\net6.0\Hostel.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\obj\Debug\net6.0\refint\Hostel.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\obj\Debug\net6.0\Hostel.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\obj\Debug\net6.0\Hostel.genruntimeconfig.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\Hostel\Hostel\obj\Debug\net6.0\ref\Hostel.dll
