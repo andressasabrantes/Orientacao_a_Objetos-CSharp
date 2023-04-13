@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\bin\Debug\net6.0\RegisteredEmployee.exe
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\bin\Debug\net6.0\RegisteredEmployee.deps.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\bin\Debug\net6.0\RegisteredEmployee.runtimeconfig.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\bin\Debug\net6.0\RegisteredEmployee.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\bin\Debug\net6.0\RegisteredEmployee.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\obj\Debug\net6.0\RegisteredEmployee.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\obj\Debug\net6.0\RegisteredEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\obj\Debug\net6.0\RegisteredEmployee.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\obj\Debug\net6.0\RegisteredEmployee.AssemblyInfo.cs
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\obj\Debug\net6.0\RegisteredEmployee.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\obj\Debug\net6.0\RegisteredEmployee.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\obj\Debug\net6.0\refint\RegisteredEmployee.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\obj\Debug\net6.0\RegisteredEmployee.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\obj\Debug\net6.0\RegisteredEmployee.genruntimeconfig.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\RegisteredEmployee\RegisteredEmployee\obj\Debug\net6.0\ref\RegisteredEmployee.dll
