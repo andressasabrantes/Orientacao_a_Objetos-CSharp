@@ -28,6 +28,21 @@ namespace RegisteredEmployee
                 Console.WriteLine();
             }
 
+            Console.Write("Enter the employee id that will have the salary increase: ");
+            int searchId = int.Parse(Console.ReadLine());
+
+            Employee emp = employees.Find(x => x.Id == searchId);
+            if (emp != null)
+            {
+                Console.Write("Enter the percentage: ");
+                double percentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                emp.IncreaseSalary(percentage);
+            }
+            else
+            {
+                Console.WriteLine("This id does not exist! Enter a valid id.");
+            }
+
             Console.WriteLine();
             Console.WriteLine("Updated list of employees: ");
             foreach (Employee i in employees)
