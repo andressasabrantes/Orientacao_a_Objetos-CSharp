@@ -9,11 +9,10 @@ namespace Course.Entities
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
         public Department Department { get; set; }
-        public List<HourContract> Contracts { get; set; } = new List<HourContract>();
+        public List<HourContract> Contracts { get; private set; } = new List<HourContract>();
 
-        public Worker ()
+        public Worker()
         {
-
         }
 
         public Worker(string name, WorkerLevel level, double baseSalary, Department department)
@@ -21,7 +20,7 @@ namespace Course.Entities
             Name = name;
             Level = level;
             BaseSalary = baseSalary;
-            Department = department;        
+            Department = department;
         }
 
         public void AddContract(HourContract contract)
@@ -34,10 +33,17 @@ namespace Course.Entities
             Contracts.Remove(contract);
         }
 
-
-
-
-
-
+        public double Income(int year, int month)
+        {
+            double sum = BaseSalary;
+            foreach (HourContract contract in Contracts)
+            {
+                if (contract.Date.Year == year && contract.Date.Month == month)
+                {
+                    sum += contract.TotalValue();
+                }
+            }
+            return sum;
+        }
     }
 }

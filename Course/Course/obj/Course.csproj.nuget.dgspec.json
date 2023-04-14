@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SMN\\Desktop\\Andressa\\csharp\\projetos\\Course\\Course\\Course.csproj": {}
+    "C:\\Users\\SMN\\Desktop\\Course\\Course\\Course.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SMN\\Desktop\\Andressa\\csharp\\projetos\\Course\\Course\\Course.csproj": {
+    "C:\\Users\\SMN\\Desktop\\Course\\Course\\Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SMN\\Desktop\\Andressa\\csharp\\projetos\\Course\\Course\\Course.csproj",
+        "projectUniqueName": "C:\\Users\\SMN\\Desktop\\Course\\Course\\Course.csproj",
         "projectName": "Course",
-        "projectPath": "C:\\Users\\SMN\\Desktop\\Andressa\\csharp\\projetos\\Course\\Course\\Course.csproj",
+        "projectPath": "C:\\Users\\SMN\\Desktop\\Course\\Course\\Course.csproj",
         "packagesPath": "C:\\Users\\SMN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SMN\\Desktop\\Andressa\\csharp\\projetos\\Course\\Course\\obj\\",
+        "outputPath": "C:\\Users\\SMN\\Desktop\\Course\\Course\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
