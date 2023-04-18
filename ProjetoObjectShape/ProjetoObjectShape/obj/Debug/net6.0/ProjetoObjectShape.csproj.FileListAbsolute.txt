@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\obj\Debug\net6.0\ProjetoObjectShape.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\obj\Debug\net6.0\ProjetoObjectShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\obj\Debug\net6.0\ProjetoObjectShape.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\obj\Debug\net6.0\ProjetoObjectShape.AssemblyInfo.cs
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\obj\Debug\net6.0\ProjetoObjectShape.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\bin\Debug\net6.0\ProjetoObjectShape.exe
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\bin\Debug\net6.0\ProjetoObjectShape.deps.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\bin\Debug\net6.0\ProjetoObjectShape.runtimeconfig.json
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\bin\Debug\net6.0\ProjetoObjectShape.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\bin\Debug\net6.0\ProjetoObjectShape.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\obj\Debug\net6.0\ProjetoObjectShape.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\obj\Debug\net6.0\refint\ProjetoObjectShape.dll
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\obj\Debug\net6.0\ProjetoObjectShape.pdb
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\obj\Debug\net6.0\ProjetoObjectShape.genruntimeconfig.cache
+C:\Users\SMN\Desktop\Andressa\csharp\projetos\ProjetoObjectShape\ProjetoObjectShape\obj\Debug\net6.0\ref\ProjetoObjectShape.dll
