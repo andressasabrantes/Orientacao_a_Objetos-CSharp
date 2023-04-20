@@ -11,5 +11,4 @@ Cada pasta neste repositório contém um conjunto de exercícios relacionados a 
 
 ## Contribuindo
 
-
 Este repositório é aberto a contribuições. Se você tiver uma correção para um exercício existente, sinta-se à vontade para criar um pull request.
